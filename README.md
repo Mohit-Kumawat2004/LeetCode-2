@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -26,6 +27,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -36,6 +38,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Tree
 |  |
 | ------- |
@@ -105,5 +108,10 @@
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
