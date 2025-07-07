@@ -9,6 +9,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,11 +97,13 @@
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
