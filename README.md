@@ -25,6 +25,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
