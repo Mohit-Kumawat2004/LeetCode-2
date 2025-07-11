@@ -40,6 +40,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -60,6 +61,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -154,6 +157,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
 ## Recursion
 |  |
@@ -167,6 +171,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
