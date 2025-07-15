@@ -8,6 +8,7 @@
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3396-valid-word](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
