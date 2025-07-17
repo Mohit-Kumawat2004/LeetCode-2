@@ -53,6 +53,7 @@
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
