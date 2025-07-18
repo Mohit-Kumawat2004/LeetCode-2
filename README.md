@@ -55,6 +55,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,11 +76,13 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
+| [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,6 +145,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 ## Queue
 |  |
 | ------- |
@@ -197,4 +202,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Bitmask
+|  |
+| ------- |
+| [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 <!---LeetCode Topics End-->
