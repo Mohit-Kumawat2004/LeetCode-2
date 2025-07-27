@@ -44,6 +44,7 @@
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
