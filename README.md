@@ -20,6 +20,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0144-binary-tree-preorder-traversal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -82,6 +84,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0144-binary-tree-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
@@ -98,6 +101,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
