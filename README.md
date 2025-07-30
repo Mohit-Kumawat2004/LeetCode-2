@@ -50,6 +50,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
