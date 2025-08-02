@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0012-integer-to-roman) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -125,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -145,6 +147,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0005-longest-palindromic-substring) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
