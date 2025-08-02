@@ -30,6 +30,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Array
@@ -55,6 +56,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
+| [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -78,6 +80,7 @@
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
@@ -195,6 +198,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
 ## Recursion
 |  |
