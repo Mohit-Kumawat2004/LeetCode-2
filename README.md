@@ -69,6 +69,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
 | [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
 ## Hash Table
 |  |
@@ -229,6 +230,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -250,8 +252,10 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
