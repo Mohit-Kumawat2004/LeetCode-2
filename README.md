@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -239,6 +240,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bitmask
 |  |
