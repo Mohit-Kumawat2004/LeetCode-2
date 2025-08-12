@@ -1,7 +1,7 @@
 class Solution {
 
 int firstMissingPositive(List<int> nums) {
-  int n = nums.length;
+  int n = nums.length;  
 
   // Step 1: Ensure that all numbers are within the valid range [1, n]
   for (int i = 0; i < n; i++) {
@@ -12,7 +12,7 @@ int firstMissingPositive(List<int> nums) {
       nums[temp - 1] = temp;
     }
   }
-
+    
   // Step 2: Find the first index where nums[i] != i + 1
   for (int i = 0; i < n; i++) {
     if (nums[i] != i + 1) {
