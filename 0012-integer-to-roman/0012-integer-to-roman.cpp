@@ -11,7 +11,7 @@ public:
             while (num >= value) {
                 result += symbol;
                 num -= value;
-            }
+            } 
         }
         return result;
     }
