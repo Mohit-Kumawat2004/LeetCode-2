@@ -44,6 +44,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0940-fruit-into-baskets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -143,6 +144,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -268,4 +270,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
