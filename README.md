@@ -16,6 +16,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0679-24-game) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -40,6 +41,7 @@
 | [0041-first-missing-positive](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0679-24-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -131,6 +133,7 @@
 | [0012-integer-to-roman](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0012-integer-to-roman) |
 | [0342-power-of-four](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0679-24-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
