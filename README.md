@@ -69,6 +69,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -277,4 +278,5 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
