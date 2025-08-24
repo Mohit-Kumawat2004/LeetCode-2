@@ -51,6 +51,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -153,6 +154,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
