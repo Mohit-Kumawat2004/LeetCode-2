@@ -47,6 +47,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0407-trapping-rain-water-ii) |
 | [0679-24-game](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3875-maximum-good-subtree-score](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3875-maximum-good-subtree-score) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Design
@@ -217,6 +220,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -251,12 +255,14 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
@@ -294,6 +300,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
