@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0022-generate-parentheses) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -52,6 +53,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -94,6 +96,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -237,6 +240,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0368-largest-divisible-subset) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
