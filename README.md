@@ -39,6 +39,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Array
 |  |
@@ -85,6 +86,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
@@ -250,6 +252,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Recursion
 |  |
 | ------- |
