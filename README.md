@@ -9,6 +9,7 @@
 | [0022-generate-parentheses](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0022-generate-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -64,6 +65,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -198,6 +200,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3336-water-bottles-ii) |
