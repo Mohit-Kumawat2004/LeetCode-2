@@ -90,6 +90,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
@@ -191,6 +192,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [3430-count-days-without-meetings](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -285,6 +289,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
