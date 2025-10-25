@@ -163,6 +163,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3336-water-bottles-ii) |
