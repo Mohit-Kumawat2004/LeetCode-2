@@ -11,6 +11,7 @@
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3396-valid-word) |
@@ -72,6 +73,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
@@ -169,6 +171,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3336-water-bottles-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -341,6 +344,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Combinatorics
