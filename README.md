@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0144-binary-tree-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
@@ -65,6 +67,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2107-find-unique-binary-string) |
@@ -189,6 +192,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -360,4 +364,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
