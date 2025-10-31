@@ -96,6 +96,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -122,6 +123,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2479-meeting-rooms-iii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2689-rearranging-fruits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
@@ -177,6 +179,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3336-water-bottles-ii](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mohit-Kumawat2004/LeetCode-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
